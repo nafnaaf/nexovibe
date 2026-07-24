@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22c55e"/><stop offset="1" stop-color="#15803d"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#bg)"/>
+  
+  <g stroke="#ffffff" stroke-width="3" fill="none" opacity="0.35">
+    <rect x="60" y="60" width="680" height="380" rx="8"/>
+    <line x1="400" y1="60" x2="400" y2="440"/>
+    <circle cx="400" cy="250" r="70"/>
+    <rect x="60" y="160" width="90" height="180"/>
+    <rect x="650" y="160" width="90" height="180"/>
+  </g>
+  <text x="400" y="252" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff" opacity="0.95">GreenKick Arena</text>
+  <text x="400" y="292" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#ffffff" opacity="0.7">Seating gallery</text>
+</svg>
